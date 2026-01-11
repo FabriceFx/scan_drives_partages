@@ -3,7 +3,7 @@
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
 
-# 📂 Audit & Cartographie des Drives Partagés (Shared Drives)
+# 📂 Audit & cartographie des Drives Partagés (Shared Drives)
 
 ## Description
 Ce projet est une solution complète d'automatisation Google Apps Script. Il permet de générer un audit exhaustif de tous les **Drives Partagés** (Shared Drives) accessibles par l'utilisateur.
