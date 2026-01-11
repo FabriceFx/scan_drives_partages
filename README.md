@@ -6,13 +6,13 @@
 # 📂 Audit & Cartographie des Drives Partagés (Shared Drives)
 
 ## Description
-Ce projet est une solution complète d'automatisation Google Apps Script conçue pour les administrateurs Google Workspace. Il permet de générer un audit exhaustif de tous les **Drives Partagés** (Shared Drives) accessibles par l'utilisateur.
+Ce projet est une solution complète d'automatisation Google Apps Script. Il permet de générer un audit exhaustif de tous les **Drives Partagés** (Shared Drives) accessibles par l'utilisateur.
 
 Le script ne se contente pas de lister les Drives, il crée une cartographie interactive en générant un onglet dédié pour chaque Drive (listant l'arborescence racine) et récupère les métadonnées de dernière activité (qui a modifié quoi et quand).
 
 ## ✨ Fonctionnalités clés
 
-* **Importation dynamique** : Récupère la liste complète des Drives Partagés via l'API Drive (compatible avec les accès Admin).
+* **Importation dynamique** : Récupère la liste complète des Drives Partagés via l'API Drive.
 * **Cartographie profonde** : Génère automatiquement un onglet (Feuille) pour chaque Drive Partagé contenant la liste de ses dossiers racines.
 * **Analyse d'activité** : Identifie le dernier utilisateur actif ("Modifié par"), la date de modification et le fichier concerné.
 * **Navigation intuitive** : Crée des liens hypertextes bidirectionnels (Index ↔ Onglets Drives) formatés pour les tableurs en locale Française (séparateur `;`).
