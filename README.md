@@ -1,7 +1,13 @@
 # scan_drives_partages![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 # 📂 Audit & cartographie des Drives Partagés (Shared Drives)
 
@@ -63,3 +69,12 @@ const CONFIG = {
   TEMPS_MAX_EXECUTION: 1000 * 60 * 4.5,          // Seuil de déclenchement du trigger (ms)
   BATCH_SIZE: 10                                 // Fréquence de sauvegarde intermédiaire
 };
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
